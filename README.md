@@ -15,6 +15,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
     - [What I learned](#what-i-learned)
     - [Useful resources](#useful-resources)
   - [Author](#author)
+  - [Acknowledgements](#acknowledgements)
 
 ## Overview
 
@@ -73,3 +74,7 @@ I learned about :
 
 - Website - [fsuropaty](https://www.fsuropaty.github.io)
 - Frontend Mentor - [@fsuropaty](https://www.frontendmentor.io/profile/fsuropaty)
+
+## Acknowledgements
+
+Thanks to [Melvin Aguilar](https://www.frontendmentor.io/profile/MelvinAguilar) over frontendmentor.io for the really helpful feedback

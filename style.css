@@ -9,25 +9,13 @@ body {
   margin: 0;
   padding: 0;
   height: 100vh;
-  background-color: var(--dark-cyan);
   overflow: hidden;
   font-family: "Kumbh Sans", sans-serif;
-}
-
-.background {
-  height: inherit;
-  overflow: hidden;
-}
-
-.top {
-  position: fixed;
-  top: -500px;
-  left: -700px;
-}
-.bottom {
-  position: fixed;
-  bottom: -500px;
-  right: -700px;
+  background-color: var(--dark-cyan);
+  background-image: url("./images/bg-pattern-top.svg"),
+    url("./images/bg-pattern-bottom.svg");
+  background-repeat: no-repeat, no-repeat;
+  background-position: right 52vw bottom 35vh, left 48vw top 52vh;
 }
 
 main {
